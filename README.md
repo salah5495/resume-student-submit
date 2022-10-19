@@ -1,2 +1,2 @@
-# resume-student-submit
+# My reume
 ## My Online Resume
